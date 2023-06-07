@@ -23,8 +23,8 @@ html {
     color: #004c4b;
 }
 
-.cover {
-    margin: 40px 0 40px 0;
+.pcover {
+    margin: 10px 0 30px 0;
 }
 
 .cover img{
@@ -38,7 +38,7 @@ html {
     padding: 20px;
 }
 
-.cover p{
+.cover {
     margin: 20px 0 20px 0;
 }
 
@@ -62,6 +62,7 @@ a {
 }
 
 .featured {
+    margin: 40px 0 40px 0;
     padding-left: 15px;
     border-left: 1px solid orange;
 }
