@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+    max-width: 50%;
+    margin: auto;
+    ;
+}
+
+.caption {
+    color: grey;
+    text-align: center;
+}
+
+.claim {
+    font-size: 14px;
+    color: #004c4b;
+}
+
+.cover {
+    margin: 40px 0 40px 0;
+}
+
+.cover img{
+    border-radius: 15px;
+    width: 100%;
+    box-shadow: 0 5px 20px #888888;
+}
+
+.cover h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.cover p{
+    margin: 20px 0 20px 0;
+}
+
+.claim {
+    padding: 20px 0 20px 0;
+    background-color: #fdfbf1;
+    border-top: 1px solid #ffd877;
+}
+
+.header {
+    text-align: center;
+}
+
+.header img{
+    width: 200px;
+    padding: 10px;
+}
+
+.link {
+    color:#107777;
+}
+
+.featured {
+    padding-left: 15px;
+    border-left: 1px solid orange;
+}
+
+.ingredients h2 {
+    border-bottom: 2px solid lightcyan;
+    font-weight: 400;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.ingredients h4 {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.ingredients ul{
+    padding-left: 40px;
+    margin-bottom: 40px;
+}
+
+.ingredients ol{
+    padding-left: 40px;
+    margin-bottom: 40px;
+}
+
+.ingredients li{
+    margin-bottom: 15px;
+}
+
+footer {
+    padding: 20px 0 20px 0;
+}
