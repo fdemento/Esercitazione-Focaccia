@@ -28,7 +28,7 @@ html {
     margin: 10px 0 30px 0;
 }
 
-.cover img{
+.cover img {
     border-radius: 15px;
     width: 100%;
     box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.3);
@@ -53,7 +53,7 @@ html {
     text-align: center;
 }
 
-.header img{
+.header img {
     width: 200px;
     padding: 10px;
 }
@@ -80,17 +80,17 @@ a {
     margin-bottom: 20px;
 }
 
-.ingredients ul{
+.ingredients ul {
     padding-left: 40px;
     margin-bottom: 40px;
 }
 
-.ingredients ol{
+.ingredients ol {
     padding-left: 40px;
     margin-bottom: 40px;
 }
 
-.ingredients li{
+.ingredients li {
     margin-bottom: 15px;
 }
 
